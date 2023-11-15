@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#body{
+    font-family: segoe ui,  helvetica neue,  helvetica,  lucida grande,  arial,  ubuntu,  cantarell,  fira sans,  sans-serif;
+}
+.divone{
+    border: 2px solid #00a884;
+    position: relative;
+    height: 250px;
+    background-color: #00a884;
+}
+.logo{
+    position: absolute;
+    left: 160px;
+    height: 70px;
+}
+.innerdiv{
+    border:  2px solid gray;
+    position: absolute;
+    height: 1200px;
+    background-color: #f9f9fa;
+    border-radius: 20%;
+}
+.thirddiv{
+    border: 2px solid whitesmoke;
+    background-color: #ffffff;
+    position: absolute; 
+    width: 1000px;
+    height: 1000px;
+    top: 40px;
+    left: 140px;
+    margin: 20px;
+    /* font-size: small; */
+}
+.div{
+    position: absolute;
+    border:  1px solid gray;
+    border-radius: 10px;
+    left: 80px;
+    top: 50px;
+    width: 800px;
+}
+.get{
+    position: absolute;
+    top: 40px;
+    left: 140px;
+}
+.button{
+    position: absolute;
+    background-color: #00a884;
+    color: white;
+    width: 100px;
+    height: 30px;
+    border-radius: 20px;
+    left: 750px;
+    top: 80px;
+}
+.h3{
+    color: #5a6872;
+    font-size: 25px;
+    position: absolute;
+    top: 220px;
+    left: 30px;
+}
+.ol{
+    position: absolute;
+    top: 300px;
+    left: 70px;
+}
+.li{
+    padding: 10px;
+    color: #5a6872;
+}
+.scan{
+    position: absolute;
+    left: 650px;
+    top: 200px;
+}
+.phone{
+    position: absolute;
+    text-decoration: none;
+    color: #00a884;
+    top: 570px;
+    left: 30px;
+}
+/* .hr{ 
+    position: absolute;
+    top: 550px;
+    border: 1px solid ;
+    width: 950px;
+    left: 20px;
+} */
+.help{
+    position: absolute;
+    color: black;
+    left: 400px;
+    top: 50px;
+}
+.p{
+    text-decoration: none;
+    position: absolute;
+    left: 380px;
+    color: #00a884;
+    top: 940px;
+}
+.video{
+    position: absolute;
+    top: 100px;
+    height: 250px;
+    left: 250px;
+}
